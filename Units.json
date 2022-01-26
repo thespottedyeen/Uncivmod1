@@ -1,0 +1,68 @@
+{
+"name" : "Hevsur",
+"unitType" : "Sword",
+"uniqueTo" : "Georgia",
+"replaces" : "Longswordsman",
+"movement" : 2,
+"strength" : 26,
+"cost" : 130,
+"requiredTech" : "Steel",
+"obsoleteTech" : "Gunpowder",
+"upgradesTo" : "Musketman",
+"attackSound" : "metalhit"
+},
+{
+"name" : "Okichito",
+"unitType" : "Scout",
+"uniqueTo" : "Cree",
+"replaces" : "Scout",
+"movement" : 3,
+"strength" : 7,
+"cost" : 32,
+"obsoleteTech" : "Scientific Theory",
+"promotions" : ["Ignore terrain cost", "Scouting I"],
+"attackSound" : "nonmetalhit"
+},
+{
+"name" : "Mandecalu Rider",
+"unitType" : "Mounted",
+"uniqueTo" : "Mali",
+"replaces" : "Knight",
+"movements" : 4,
+"strength" : 20,
+"cost" : 120,
+"requiredTech" : "Chivalry",
+"requiredResource" : "Horses", 
+"upgradesTo" : "Cavalry", 
+"obsoleteTech" : "Military Science",
+"uniques" : ["Can move after attack"],
+"attackSound" : "horse"
+},
+{
+"name" : "Toa",
+"unitType" : "Sword",
+"uniqueTo" : "Maori",
+"replaces" : "Warrior", 
+"movement" : 2,
+"strength" : 12,
+"cost" : 40,
+"upgradesTo" : "Swordsman", 
+"obsoleteTech" : "Gunpowder", 
+"attackSound" : "nonmetalhit" 
+}, 
+{
+"name" : "Mallon Cavalery", 
+"unitType" : "Mounted", 
+"uniqueTo" : "Mapuche",
+"replaces" : "Cavalry", 
+"movement" : 4,
+"strength" : 38,
+"cost" : 230,
+"requiredTech" : "Military Science", 
+"obsoleteTech" : "Combustion", 
+"requiredResource" : "Horses", 
+"upgradesTo" : "Tank", 
+"uniques" : ["can move after attacking"], 
+"attackSound" : "horse" 
+} 
+

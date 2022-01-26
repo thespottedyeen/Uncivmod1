@@ -1,0 +1,145 @@
+{
+"name" : "Georgia",
+"leaderName" : "Tamara",
+"adjective" : ["Georgian" ], 
+"startBias" : ["Hills"],
+"prefferedVictoryType" : "Cultural",
+
+"startIntroPart1" : "Lead your folk with wisdom and bravery, queen Tamara. God bless your begginings.",
+"startIntroPart2" : "Your people need you. Are you the choosen one to build an immortal empire?", 
+
+"declaringWar" : "You weren't supposed to stay on our way",
+"attacked" : "I should never trusted you",
+"defeated" : "No more blood should be spilled. I surrender.", 
+"introduction" : "The queen of Caucasus is greeting you, mighty warrior",
+
+"neutralHello" : "Greetings",
+"hateHello" : "Questions again?",
+
+"tradeRequest" : "Need a trade?"
+
+"outerColor" : [139,69,19],
+"innerColor" : [160,82,45],
+"uniqueName" : "Glory of peace, kingdom and faith",
+"uniques" : ["Earn [100]% of killed [Military] unit's [Strength] as [Faith]"],
+"cities" : ["Tbilisi", "Kutaisi", "Batumi", "Borjomi", "Mzheta", "Gori", "Zugdidi", "Poti", "Rustavi", "Signahi"] 
+}, 
+{
+"name" : "Cree", 
+"leaderName" : "Poundmaker", 
+"adjective" : ["Cree"], 
+"startBias" : ["Avoid [Desert]"], 
+"prefferedVictoryType" : "Diplomatic", 
+
+"startIntroPart1" : "The foreigners are almost here, Great Chief, are you enough strong and wise to defend our tribes?", 
+"StartIntroPart2" : "Stop the brutal intruders, make them out from our lands and show everybody that you are capable of building an empire", 
+
+"declaringWar" : "You are a weak leader, won't you be disagree if I take care of your people instead of you?", 
+"attacked" : "Your choise will not be forgotten, traitor", 
+"defeated" : "Today you are the winner, I'd like to see how long you will hold on", 
+"introduction" : "I am the leader of all the people and lands you see here. May we stay in peace?", 
+
+"neutralHello" : "Anything else?", 
+"hateHello" : "Why are you bothering me?", 
+
+"tradeRequest" : "Might be, this will take your attention?", 
+
+"outerColor" : [0,100,0],
+"innerColor" : [0,128,0],
+"uniqueName" : "Trading League", 
+"uniques" : ["Receive free [Great Merchant] when you discover [Currency]", "[-50]% Culture cost of acquiring tiles [in all cities]"], 
+"cities" : ["Ontario", "Buffalo/state", "Ottava", "Victoria", "Hummiltone", "Thunder/bay", "Saskatoon", "Regina", "Edmonton", "Winnipeg", "Culgari"]
+}, 
+{
+"name" : "Mali", 
+"leaderName" : "Mansa Musa", 
+"adjective" : ["Maleese"], 
+"startBias" : ["Desert"],
+"prefferedVictoryType" : "Domination", 
+
+"startIntroPart1" : "Life is hard in a harsh desert like this, so that's why your people need you, Great Sultane Mansa Musa, lead them.", 
+"startIntroPart2" : "Are you able to build a rich empire and dominate the world?",
+
+"declareWar" : "Let me make your lands fertile with your blood", 
+"attacked" : "You can't even recognise how big is your mistake", 
+"defeated" : "The spirits of Desert will follow you as long as the memory of my empire is alive", 
+"introduction" : "Kneel in the awe of my might and riches, foreighner", 
+
+"neutralHello" : "What do you want to ask for?", 
+"hateHello" : "How dare you to appear in my sight?",
+
+"tradeRequest" : "Not everyday you will receive such profiable requests", 
+
+"outerColor" : [184,134,11],
+"innerColor" : [218,165,32],
+"uniqueName" : "Griottes songs", 
+"uniques" : ["[+1 Faith] from [Desert] tiles [in all cities]", "[+1 Food] from [Desert] tiles [in all cities]", "[+4 Production] from every [Mine]"],
+"cities" : ["Jenne", "Bamako", "Tombuktu", "Kei", "Mopti", "Gao", "Kutiala", "Gundam", "Sikaso", "Kita"] 
+}, 
+{
+"name" : "Maori", 
+"leaderName" : "Kupe", 
+"adjective" : ["Maori"], 
+"startBias" : ["Ocean"], 
+"prefferedVictoryType" : "Cultural", 
+
+"startIntroPart1" : "Today we are just sailor, who just simply crossed the ocean in a search of better life. In this unknown land we need a wise and powerfull leader, like you",
+"startIntroPart2" : "We rely on you, are you enough brave to lead your nation till the end?",
+
+"declareWar" : "... Haka dance sounds..." 
+"attacked" : "Warriors, bring me his head", 
+"defeated" : "The victory is yours now, but even our grandsons will remember your merciless", 
+"introduction" : "I am Kupe, the leader of oceanic folk. Let me know your name", 
+
+"neutralHello" : "Welcome, neighbour", 
+"hateHello" : "You are not welcome here, you know", 
+
+"tradeRequest" : "Are not you interrested in trading?",
+
+"outerColor" : [128,0,130],
+"innerColor" : [128,0,128],
+"uniqueName" : "The Oceanic Folk", 
+"uniques" : ["Can embark and move over Coasts and Oceans immediately", "Normal vision when embarked <for [All] units>"], 
+"cities" : ["Whangarei", "Kapingamarangi", "Nukuoro", "Tauranga", "Queenstown", "Oklanf", "Wellington", "Hristchurch", "Heistings", "Nelson"] 
+}, 
+{
+"name" : "Mapuche", 
+"leaderName" : "Lautaro", 
+"adjective" : ["Mapuche"], 
+"startBias" : ["Plains"], 
+"prefferedVictoryType" : "Domination", 
+
+"startIntroPart1" : "Your folk meets harsh times. That is why the people need you, young chief Lautaro.", 
+"startIntroPart2" : "Will you build an empire powerfull enough to fight back the merciless and brutal barbarians and withstand the tide of time?", 
+
+"declareWar" : "Get ready for your death",
+"attacked" : "Brave, but stupid.", 
+"defeated" : "I am lost, but you should know that every my warrior fought untill the last drop of blood.", 
+"introduction" : "My name is Lautaro, what is yours, warrior?", 
+
+"neutralHello" : "You are welcome", 
+"hateHello" : "Don't spend my time", 
+
+"tradeRequest" : "May the trade strengthen our nations?", 
+
+"outerColor" : [255,69,0],
+"innerColor" : [255,140,0],
+"uniqueName" : "Fast Hawk", 
+"uniques" : ["[+1] Movement <for [All] units>"], 
+"cities" : ["Buenos Aires", "Salta", "Mendosa", "Rosario", "La Plata", "Ushuaja", "Corrientes", "Catamarka", "La Rioha", "Santa Fe"] 
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
